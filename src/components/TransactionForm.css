@@ -1,0 +1,28 @@
+.form-container {
+  margin-bottom: 20px;
+  background: #7aa6e8;
+  padding: 15px;
+  border-radius: 6px;
+}
+
+.form-input {
+  width: 90%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.form-button {
+  width: 100%;
+  padding: 10px;
+  background: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.form-button:hover {
+  background: #45a049;
+}

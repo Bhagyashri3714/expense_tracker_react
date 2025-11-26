@@ -1,0 +1,19 @@
+.summary-box {
+  background: #f1f1f1;
+  padding: 15px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+.income {
+  color: green;
+}
+
+.expense {
+  color: red;
+}
